@@ -16,4 +16,6 @@ Most of my work lives in private repos, so there isn't much to see here.
 
 I mostly work with TypeScript, Node.js, PostgreSQL, GraphQL and Redis.
 
+[More about me](https://jcalcaldev.github.io/)
+
 [LinkedIn](https://www.linkedin.com/in/juan-cristobal-alcalde-vidaurre-78209016b/)
